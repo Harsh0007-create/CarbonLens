@@ -2,7 +2,7 @@
 
 **Hackathon ID: AZIS-G4PHWM**
 
-**Live app:** https://carbon-lens-jzz7plzmj-harsh-pareto-app.vercel.app
+**Live app:** https://carbon-lens-4rwmz8c4m-harsh-pareto-app.vercel.app
 
 CarbonLens turns everyday choices into a carbon footprint you can actually see. You log a car ride, a flight, some electricity or a meal, and the app shows how much CO₂ it added, where your emissions come from, and whether you're on track for your weekly target.
 
